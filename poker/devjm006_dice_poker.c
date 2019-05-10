@@ -10,7 +10,6 @@
 	Place code to randomly generate the roll of five dice here�
 	*/
 
-
 #define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
